@@ -1,9 +1,9 @@
 var Twit = require('twit');
 var Bot = new Twit({
-	consumer_key: 'z1Psa3Jot23hxjhk2kXKskj5e',
-	consumer_secret: '56XSi5os3lnVGMuM6B0qcA2sk7i0bGleK5OtOqdoQ59mYaU2DP',
-	access_token: '4578654927-DzZTse7J5NiPLVHGXo9vhIsULwMwxsKAABioP0H',
-	access_token_secret: 'WxPPU7oEAhJ5x8RacDkylygfc7WGlszw1fTghPapvs2VC'
+	consumer_key: 'xxxxxxxx',
+	consumer_secret: 'xxxxx',
+	access_token: 'xxxxx',
+	access_token_secret: 'xxxxx'
 });
 console.log('The bot is running...');
 
